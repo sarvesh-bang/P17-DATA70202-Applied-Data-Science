@@ -1,0 +1,9 @@
+dash
+flask
+flask_sqlalchemy
+flask_migrate
+pymysql
+pandas
+numpy
+plotly
+wordcloud
