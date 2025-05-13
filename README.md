@@ -49,4 +49,4 @@ This project is licensed under a custom License. See the LICENSE file for detail
 
 ## Citation
 
-This project has been archived with Zenodo and can be cited using the following DOI: `10.xxxx/zenodo.xxxxxxx`.
+This project has been archived with Zenodo and can be cited using the following DOI: `10.5281/zenodo.15392636`.
